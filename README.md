@@ -1,0 +1,1 @@
+Issue reproduction repository for an issue in VS Code extension [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
